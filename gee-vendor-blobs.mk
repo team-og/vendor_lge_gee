@@ -160,7 +160,9 @@ PRODUCT_COPY_FILES += \
     vendor/lge/gee/proprietary/lib/libsensor_reg.so:system/lib/libsensor_reg.so \
     vendor/lge/gee/proprietary/lib/libsensor_user_cal.so:system/lib/libsensor_user_cal.so \
     vendor/lge/gee/proprietary/lib/libstagefright_hdcp.so:system/lib/libstagefright_hdcp.so \
+    vendor/lge/gee/proprietary/lib/libWVphoneAPI.so:system/lib/libWVphoneAPI.so \
     vendor/lge/gee/proprietary/lib/libxml.so:system/lib/libxml.so \
+    vendor/lge/gee/proprietary/lib/soundfx/libfmas.so:system/lib/soundfx/libfmas.so \
     vendor/lge/gee/proprietary/lib/libpatts_engine_jni_api.so:system/lib/libpatts_engine_jni_api.so \
     vendor/lge/gee/proprietary/lib/libwebrtc_audio_coding.so:system/lib/libwebrtc_audio_coding.so \
     vendor/lge/gee/proprietary/lib/libwebrtc_audio_preprocessing.so:system/lib/libwebrtc_audio_preprocessing.so \
@@ -193,4 +195,5 @@ PRODUCT_COPY_FILES += \
     vendor/lge/gee/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/lge/gee/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/lge/gee/proprietary/vendor/lib/libwvdrm_L1.so:system/vendor/lib/libwvdrm_L1.so \
-    vendor/lge/gee/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so
+    vendor/lge/gee/proprietary/vendor/lib/drm/libdrmwvmplugin.so:system/vendor/lib/drm/libdrmwvmplugin.so \
+    vendor/lge/gee/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so
