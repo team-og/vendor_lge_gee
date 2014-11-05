@@ -71,6 +71,10 @@ PRODUCT_COPY_FILES += \
     vendor/lge/gee/proprietary/lib/libc2d30.so:system/lib/libc2d30.so \
     vendor/lge/gee/proprietary/lib/libcamera_fast_af.so:system/lib/libcamera_fast_af.so \
     vendor/lge/gee/proprietary/lib/libCB.so:system/lib/libCB.so \
+    vendor/lge/gee/proprietary/lib/libchromatix_imx091_default_video.so:system/lib/libchromatix_imx091_default_video.so \
+    vendor/lge/gee/proprietary/lib/libchromatix_imx091_preview.so:system/lib/libchromatix_imx091_preview.so \
+    vendor/lge/gee/proprietary/lib/libchromatix_imx091_video_hd.so:system/lib/libchromatix_imx091_video_hd.so \
+    vendor/lge/gee/proprietary/lib/libchromatix_imx091_zsl.so:system/lib/libchromatix_imx091_zsl.so \
     vendor/lge/gee/proprietary/lib/libchromatix_imx111_default_video.so:system/lib/libchromatix_imx111_default_video.so \
     vendor/lge/gee/proprietary/lib/libchromatix_imx111_preview.so:system/lib/libchromatix_imx111_preview.so \
     vendor/lge/gee/proprietary/lib/libchromatix_imx111_zsl.so:system/lib/libchromatix_imx111_zsl.so \
